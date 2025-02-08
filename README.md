@@ -32,7 +32,7 @@ BudgetBuddy/
 ├── app/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/example/expensemanager/
+│   │   │   ├── java/com/example/budgetbuddy/
 │   │   │   │   ├── data/                 
 │   │   │   │   │   ├── local/         
 │   │   │   │   │   │   ├── DatabaseHelper.java
